@@ -1,4 +1,4 @@
-# WordPress Plugin Name
+# WordPress Plugin Name HERE
 
 Short plugin description HERE.
 
@@ -18,13 +18,13 @@ Short plugin description HERE.
 3. Copy the folder to your `/wp-content/plugins/` directory.
 4. Go to the Plugins screen and click __Activate__.
 
-Check out the Codex for more information [installing plugins manually](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
+Check out the Codex for more information about [installing plugins manually](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
 
 ### Git
 
 Using git, browse to your `/wp-content/plugins/` directory and clone this repository:
 
-`git clone git@github.com:GaryJones/PROJECT-NAME.git`
+`git clone git@github.com:GaryJones/PROJECT-SLUG.git`
 
 Then go to your Plugins screen and click __Activate__.
 
@@ -34,13 +34,13 @@ Long description detailing the features of the plugin HERE.
 
 ## Screenshots
 
-![Alt text for screenshot HERE](https://raw.github.com/GaryJones/PROJECT-NAME/master/assets/screenshot-1.png)  
-_Screenshot caption HERE._
+![Alt text for screenshot 1 HERE](https://raw.github.com/GaryJones/PROJECT-SLUG/master/assets/screenshot-1.png)  
+_Screenshot 1 caption HERE._
 
 ---
 
-![Alt text for screenshot HERE](https://raw.github.com/GaryJones/PROJECT-NAME/master/assets/screenshot-1.png)  
-_Screenshot caption HERE._
+![Alt text for screenshot 2 HERE](https://raw.github.com/GaryJones/PROJECT-SLUG/master/assets/screenshot-2.png)  
+_Screenshot 2 caption HERE._
 
 
 ## Credits
