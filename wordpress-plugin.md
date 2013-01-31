@@ -2,6 +2,21 @@
 
 Short plugin description HERE.
 
+## Description 
+
+Long description detailing the features of the plugin HERE.
+
+## Screenshots
+
+![Alt text for screenshot 1 HERE](https://raw.github.com/GaryJones/PROJECT-SLUG/master/assets/screenshot-1.png)  
+_Screenshot 1 caption HERE._
+
+---
+
+![Alt text for screenshot 2 HERE](https://raw.github.com/GaryJones/PROJECT-SLUG/master/assets/screenshot-2.png)  
+_Screenshot 2 caption HERE._
+
+
 ## Installation
 
 ### Upload
@@ -27,20 +42,6 @@ Using git, browse to your `/wp-content/plugins/` directory and clone this reposi
 `git clone git@github.com:GaryJones/PROJECT-SLUG.git`
 
 Then go to your Plugins screen and click __Activate__.
-
-## Description 
-
-Long description detailing the features of the plugin HERE.
-
-## Screenshots
-
-![Alt text for screenshot 1 HERE](https://raw.github.com/GaryJones/PROJECT-SLUG/master/assets/screenshot-1.png)  
-_Screenshot 1 caption HERE._
-
----
-
-![Alt text for screenshot 2 HERE](https://raw.github.com/GaryJones/PROJECT-SLUG/master/assets/screenshot-2.png)  
-_Screenshot 2 caption HERE._
 
 
 ## Credits
