@@ -22,7 +22,7 @@ _Screenshot 2 caption HERE._
 ### Upload
 
 1. Download the latest tagged archive (choose the "zip" option).
-* Go to the __Plugins → Add New__ screen and click the __Upload__ tab.
+* Go to the __Plugins__ → __Add New__ screen and click the __Upload__ tab.
 * Upload the zipped archive directly.
 * Go to the Plugins screen and click __Activate__.
 
